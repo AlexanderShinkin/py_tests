@@ -1,4 +1,8 @@
-from funcs import result
+from funcs import result, result_minus
 
-total = result(10, 3)
+total_plus = result()
+
+total_minus = result_minus()
+
+
 
